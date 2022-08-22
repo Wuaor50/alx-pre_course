@@ -1,1 +1,1 @@
-echo "text"> fileName
+echo -e "git cmd used"> up_to_date
